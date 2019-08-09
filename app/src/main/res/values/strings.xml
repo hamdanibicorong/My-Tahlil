@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Tahlil</string>
+    <string name="discover">Discover</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="subhanallah">سُبْحَانَ اللهِ</string>
+    <string name="alhamdulillah">اَلْحَمْدُ ِللهِ</string>
+    <string name="allahuakbar">اللهُ أَكْبَرُ</string>
+    <string name="lailahaillalah">لاَ إِلَهَ إِلاَّ اللهُ</string>
+    <string name="lailahaillallah">La ilahaillallah</string>
+    <string name="alham">Alhamdulillah</string>
+    <string name="subhanallah2">Subhanallah</string>
+    <string name="allahuakbar2">Allahuakbar</string>
+    <string name="action_settings">Settings</string>
+
+    //conter
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="text_v">Tasbeeh Counter</string>
+</resources>
